@@ -1,4 +1,7 @@
-# OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent
+# OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent 
+## (옴니파서는 GPT-4V, '파이-3.5-V', '라마-3.2-V' 등 다양한 오픈 소스 VLM과 작동, 개발자들에게 접근성과 유연성을 확장하도록 돕는다.)
+
+출처 : AI타임스(https://www.aitimes.com)
 
 <p align="center">
   <img src="imgs/logo.png" alt="Logo">
